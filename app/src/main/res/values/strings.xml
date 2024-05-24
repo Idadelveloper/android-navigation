@@ -6,4 +6,6 @@
     <string name="text_menu_communicate">Communications</string>
     <string name="text_menu_send">Send</string>
     <string name="text_menu_share">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
